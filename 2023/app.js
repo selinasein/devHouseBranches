@@ -1,1 +1,1 @@
-console.log("Hello world from js");
+console.log("Changes to the js");
